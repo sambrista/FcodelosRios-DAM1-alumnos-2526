@@ -3,3 +3,4 @@
 ## Listado de clase
 
 - Nombre y apellidos
+- Ángel García Ruiz
