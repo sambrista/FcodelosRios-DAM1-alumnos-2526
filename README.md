@@ -7,3 +7,4 @@
 - Cristina Civico Ariza
 - Kleopatra Raynova
 - Ángel García Ruiz
+-Daniel Ruiz Fernández
