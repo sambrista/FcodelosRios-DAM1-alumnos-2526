@@ -6,3 +6,4 @@
 - Carmen María Alcázar Martín
 - Cristina Civico Ariza
 - Kleopatra Raynova
+- Ángel García Ruiz
