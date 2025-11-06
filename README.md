@@ -3,4 +3,6 @@
 ## Listado de clase
 
 - Nombre y apellidos
+- Carmen María Alcázar Martín
+- Kleopatra Raynova
 - Ángel García Ruiz
